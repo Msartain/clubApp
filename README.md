@@ -4,8 +4,6 @@
 2. [MVP Features](#features)
 3. [Future Enhancements](#future) 
 4. [Tech](#tech)
-5. [Unresolved issues](#issues)
-6. [Future Enhancements](#stretch)
 ## <a name="desc"></a> **Description**
 ________________
 WRITE PROJECT DESCRIPTION HERE
