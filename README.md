@@ -1,38 +1,29 @@
-## [**PROJECT NAME**](https://insertyourlinkhere)
+## [**My Club Hub**]
 ### <a name="home"></a> **Contents**
 1. [Description](#desc)
-2. [Getting Started](#start)
-3. [User Experience](#ui) 
+2. [MVP Features](#features)
+3. [Future Enhancements](#future) 
 4. [Tech](#tech)
 5. [Unresolved issues](#issues)
 6. [Future Enhancements](#stretch)
 ## <a name="desc"></a> **Description**
 ________________
-PROJECT DESCRIPTION
+WRITE PROJECT DESCRIPTION HERE
 [top](#home)
-## <a name="start"></a> **Getting Started**
+## <a name="features"></a> **MVP Features**
 ________________
-[LINK TO TRELLO](TRELLO LINK)
+WRITE MINIMUM APP FEATURES HERE
 [top](#home)
-## <a name="ui"></a> **User Experience**
+## <a name="future"></a> **Wishlist Features**
 ________________
-**Landing**
-![SCREENSHOT](IMAGE PATH)
-**User Login**
-![PIC](PATH)
+FUTURE ENHANCEMENTS
 [top](#home)
 ## <a name="tech"></a> **Tech**
 ________________
 * MongoDB/Mongoose
 * Express
-* React
+* React Native
+* Sass
 * Node
 [top](#home)
-## <a name="issues"></a> **Unresolved Issues**
-________________
-* OUTSTANDING ISSUES
-[top](#home)
-## <a name="stretch"></a> **Future Enhancements**
-________________
-* things you want to improve
-[top](#home)
+
