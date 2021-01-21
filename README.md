@@ -1,27 +1,31 @@
-## [**My Club Hub**]
+## **My Club Hub**
 ### <a name="home"></a> **Contents**
 1. [Description](#desc)
 2. [MVP Features](#features)
 3. [Future Enhancements](#future) 
 4. [Tech](#tech)
 ## <a name="desc"></a> **Description**
-________________
-WRITE PROJECT DESCRIPTION HERE
+
+This app will be a central location for various clubs (book, food, movie/documentary, wine etc). Allowing the user to see a calendar of upcoming events, the chosen book/wine/meal/movie for that week, data on that book/wine/meal/movie, links to sources for buying, downloading or streaming. And a rating system after each weekly meeting.
 [top](#home)
+________________
+
 ## <a name="features"></a> **MVP Features**
-________________
-WRITE MINIMUM APP FEATURES HERE
+
+MINIMUM APP FEATURES:
 [top](#home)
-## <a name="future"></a> **Wishlist Features**
 ________________
-FUTURE ENHANCEMENTS
+
+## <a name="future"></a> **Future Features**
+
+FUTURE ENHANCEMENTS:
 [top](#home)
+________________
+
 ## <a name="tech"></a> **Tech**
-________________
-* MongoDB/Mongoose
-* Express
+
 * React Native
 * Sass
 * Node
 [top](#home)
-
+________________
